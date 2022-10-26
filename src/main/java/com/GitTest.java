@@ -9,5 +9,9 @@ public class GitTest {
         System.out.println("master world");
         System.out.println("fix-hello world");
         System.out.println("fix-hello world123");
+        System.out.println("fix-hello world123");
+        System.out.println("fix-hello world123");
+        System.out.println("fix-hello world123");
+        System.out.println("fix-hello world123");
     }
 }
